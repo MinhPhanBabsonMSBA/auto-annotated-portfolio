@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven Finance'
 colors: colors-a
-date: ''
+date: '2025-03-02'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
