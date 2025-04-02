@@ -322,7 +322,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Learn More
             altText: ''
             url: /
             showIcon: true
