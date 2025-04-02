@@ -218,7 +218,7 @@ sections:
           During that unexpected delay on New Year's Eve, I turned my curiosity
           into action by diving into real-world flight data from JFK, Newark,
           and LaGuardia airports. I used a dataset covering 59 destinations
-          across the U.S .
+          across the U.S.
         featuredImage:
           type: ImageBlock
           url: >-
