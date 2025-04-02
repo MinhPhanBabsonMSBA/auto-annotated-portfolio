@@ -42,6 +42,4 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
-Welcome to the **Flight Delay Analysis Post**! This project was inspired by a personal experience during the New Year’s holiday when a flight delay at JFK Airport sparked curiosity about the causes and patterns of flight delays ([LinkedIn Post](https://www.linkedin.com/posts/minh-phan-0409_it-is-the-new-years-holiday-one-of-the-activity-7280805963832410112-8Cs3?utm_source=share\&utm_medium=member_desktop)). Leveraging machine learning and interactive data visualization, this app helps users explore real-world flight delay data and gain insights into factors contributing to delays.
-
-
+Read my full article here: <https://www.linkedin.com/posts/minh-phan-0409_it-is-the-new-years-holiday-one-of-the-activity-7280805963832410112-8Cs3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqZtsBPRL7Pr6cF5BsmZDxQEWSeTpKJ-o>
