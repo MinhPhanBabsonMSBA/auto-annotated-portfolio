@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: ''
       - type: Label
         label: React
       - type: Label
