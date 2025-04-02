@@ -25,6 +25,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
