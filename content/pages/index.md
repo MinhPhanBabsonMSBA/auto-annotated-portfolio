@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: Minh (Mike) Phan Portfolio
+    title: 'Hello, Welcome to my Portfolio'
     text: >+
       I’m Mike Phan, a Master’s student at Babson Graduate School of Business
       with a strong foundation in machine learning, data analytics, and
