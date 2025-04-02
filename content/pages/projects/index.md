@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Blue Bike Case Study
+title: ''
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
