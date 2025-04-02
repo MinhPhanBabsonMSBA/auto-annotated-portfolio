@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/Customer-Segmentation-Analysis.jpg
+  url: /images/1607110048550.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
