@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Flight Delay Prediction R Shiny Project
+        title: 'Flight Delay Prediction R Shiny '
         subtitle: ''
         text: ''
         featuredImage:
