@@ -189,7 +189,8 @@ sections:
           - type: Button
             label: 'Learn more '
             altText: ''
-            url: ''
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation
             showIcon: true
             icon: arrowRight
             iconPosition: right
