@@ -42,7 +42,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: right
     type: HeroSection
     actions: []
   - type: DividerSection
