@@ -9,10 +9,4 @@ media:
   type: ImageBlock
   url: /images/about.jpg
   altText: Project image
-featuredImage:
-  type: ImageBlock
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
-  url: /images/twitter-yahoo-finance-python.jpg
 ---
