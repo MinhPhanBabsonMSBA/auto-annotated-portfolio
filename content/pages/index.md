@@ -17,11 +17,12 @@ sections:
       Portfolio!**</div>
 
 
-      <div style="text-align: center">###### A business analyst with a strong
-      foundation in machine learning, data analytics, and cloud-based data
-      engineering. With hands-on experience in Python, R, SQL, and modern BI
-      tools like Tableau and Power BI, I specialize in transforming complex data
-      into actionable business insights.</div>
+      <div style="text-align: center">###### I am Mike Phan, a Master's Student
+      at Babson Graduate School of Business with a strong foundation in machine
+      learning, data analytics, and cloud-based data engineering. With hands-on
+      experience in Python, R, SQL, and modern BI tools like Tableau and Power
+      BI, I specialize in transforming complex data into actionable business
+      insights.</div>
 
     actions:
       - type: Button
