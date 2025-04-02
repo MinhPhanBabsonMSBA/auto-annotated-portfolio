@@ -271,7 +271,7 @@ sections:
         padding:
           - pt-28
           - pb-36
-          - pl-4
+          - pl-10
           - pr-4
         textAlign: center
   - colors: colors-f
