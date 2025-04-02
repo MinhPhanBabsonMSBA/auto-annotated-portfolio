@@ -13,8 +13,8 @@ sections:
   - type: CtaSection
     title: 'Hello, Welcome to my Portfolio'
     text: >+
-      I’m Mike Phan, a Master’s student at Babson Graduate School of Business
-      with a strong foundation in machine learning, data analytics, and
+      ### I’m Mike Phan, a Master’s student at Babson Graduate School of
+      Business with a strong foundation in machine learning, data analytics, and
       cloud-based data engineering. I specialize in transforming complex data
       into actionable business insights using tools like Python, R, SQL,
       Tableau, and Power BI.
