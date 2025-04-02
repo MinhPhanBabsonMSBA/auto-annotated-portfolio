@@ -30,17 +30,7 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: >-
-          https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
 socialImage: /images/CAN-DATA-SCIENCE-PREDICT-THE-STOCK-MARKET.webp
 featuredImage:
   type: ImageBlock
