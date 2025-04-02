@@ -13,10 +13,11 @@ sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
     text: >+
-      ### **Hello, Welcome to my Portfolio!**
+      <div style="text-align: center">### **Hello, Welcome to my
+      Portfolio!**</div>
 
 
-      <div style="text-align: left">###### **I’m Mike Phan, a business analyst
+      <div style="text-align: center">###### **I’m Mike Phan, a business analyst
       with a strong foundation in machine learning, data analytics, and
       cloud-based data engineering. With hands-on experience in Python, R, SQL,
       and modern BI tools like Tableau and Power BI, I specialize in
