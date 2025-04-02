@@ -83,7 +83,7 @@ sections:
             showIcon: true
             icon: arrowRightCircle
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         elementId: ''
         styles:
