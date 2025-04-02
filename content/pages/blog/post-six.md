@@ -8,12 +8,6 @@ excerpt: >-
   Curious how data analytics can unlock smarter investment strategies and drive
   financial outcomes? In this post, I share my personal journey into the world
   of data-driven finance.
-featuredImage:
-  type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-  altText: altText of the image
-  caption: Caption of the image
-  elementId: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
