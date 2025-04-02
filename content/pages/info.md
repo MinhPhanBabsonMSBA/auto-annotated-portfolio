@@ -67,7 +67,7 @@ sections:
       - type: Label
         label: ' Alteryx'
       - type: Label
-        label: Netlify
+        label: SAS Analytics
       - type: Label
         label: Pancakes
       - type: Label
