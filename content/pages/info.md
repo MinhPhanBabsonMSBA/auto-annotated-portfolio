@@ -61,9 +61,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: >-
-          Python (NumPy, Pandas, Matplotlib) | R(Statistics, Machine Learning) |
-          Alteryx | SAS | JIRA
+        label: 'Python (NumPy, Pandas, Matplotlib) | | Alteryx | SAS | JIRA'
       - type: Label
         label: Microsoft Office
       - type: Label
