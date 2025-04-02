@@ -353,7 +353,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: LinkedIn
+        label: Let's Talk
         url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: Microsoft Office
