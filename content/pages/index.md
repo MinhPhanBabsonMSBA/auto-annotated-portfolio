@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
-    text: >
+    text: >+
       <div style="text-align: center">### **Hello, Welcome to my
       Portfolio!**</div>
 
@@ -23,10 +23,6 @@ sections:
       tools like Tableau and Power BI, I specialize in transforming complex data
       into actionable business insights.</div>
 
-
-
-
-      ![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()![]()
     actions:
       - type: Button
         label: My resume
