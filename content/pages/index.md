@@ -354,7 +354,7 @@ sections:
     items:
       - type: Label
         label: LinkedIn
-        url: ''
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: Microsoft Office
         url: ''
