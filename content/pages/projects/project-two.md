@@ -7,7 +7,7 @@ client: ''
 description: ''
 media:
   type: VideoBlock
-  title: ''
+  title: Demo Video
   url: >-
     https://www.youtube.com/watch?si=-ytF-qxe0LXk18zL&v=qGxx_UxXFOo&feature=youtu.be
   elementId: ''
