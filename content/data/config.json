@@ -4,7 +4,7 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [],
-        "copyrightText": "Copyright text",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
