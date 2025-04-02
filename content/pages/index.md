@@ -174,7 +174,9 @@ sections:
     title: Featured Posts
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: >-
+          Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven
+          Finance
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
