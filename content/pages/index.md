@@ -357,7 +357,8 @@ sections:
         url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: Resume
-        url: ''
+        url: >-
+          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
     colors: colors-f
     elementId: ''
     styles:
