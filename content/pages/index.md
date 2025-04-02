@@ -333,7 +333,7 @@ sections:
   - type: QuoteSection
     quote: >-
       “If you don't see me cleaning data, you can find me in the kitchen
-      experimenting new dishes”
+      experimenting with new dishes”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     colors: colors-f
