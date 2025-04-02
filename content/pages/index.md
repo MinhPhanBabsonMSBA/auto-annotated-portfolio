@@ -44,7 +44,7 @@ sections:
 
     actions:
       - type: Button
-        label: My resume
+        label: Resume
         altText: ''
         url: >-
           https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
