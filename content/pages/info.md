@@ -44,17 +44,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: >-
-          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - type: DividerSection
     styles:
       self:
