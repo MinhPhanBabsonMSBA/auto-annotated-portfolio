@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Yahoo Finance Stock Analytics Dashboard
 colors: colors-a
-date: '2021-12-20'
+date: '2025-04-20'
 client: ''
 description: ''
 media:
