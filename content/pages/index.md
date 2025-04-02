@@ -11,25 +11,49 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: Minh (Mike) Phan Portfolio
+    title: "Hello, Welcome to my Portfolio \U0001F44B"
     text: >+
-      <div style="text-align: center">### **Hello, Welcome to my
-      Portfolio!**</div>
+      <div style="text-align: center">  <h3>I’m Mike Phan</h3>
+        <p>
+      A Master’s student at Babson Graduate School of Business with a strong
+      foundation in machine learning, data analytics, and cloud-based data
+      engineering. I focus on transforming complex data into clear, actionable
+      insights that drive strategic decisions and solve real-world business
+      problems.
+        </p></div>
+      <!-- Tech Stack Section -->
 
-
-      <div style="text-align: center">###### I’m Mike Phan, a Master’s student
-      at Babson Graduate School of Business with a strong foundation in machine
-      learning, data analytics, and cloud-based data engineering. I specialize
-      in transforming complex data into actionable business insights using tools
-      like Python, R, SQL, Tableau, and Power BI.
-
-
-
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap:
+      10px; margin-top: 30px;">
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
       </div>
 
     actions:
       - type: Button
-        label: My resume
+        label: Contact Me!
+        altText: ''
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
+        showIcon: false
+        icon: linkedin
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Resume
         altText: ''
         url: >-
           https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
@@ -39,11 +63,11 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Contact Me
+        label: 'GitHub '
         altText: ''
-        url: 'https://www.linkedin.com/in/minh-phan-0409'
+        url: 'https://github.com/MinhPhanBabsonMSBA'
         showIcon: true
-        icon: linkedin
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
@@ -61,116 +85,326 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
+  - type: MediaGallerySection
+    title: Certifications
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Alteryx Fundamentals certificate.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/BMC.pdf.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/CertificateOfCompletion_The Data Science Playbook for Private
+          Equity and Venture Capital (1).png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 3
+    aspectRatio: '3:2'
+    showCaption: false
+    enableHover: true
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: false
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-d
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
-          - pt-24
-          - pb-24
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
-        textAlign: left
-    subtitle: Featured Projects
-    title: ''
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
+        textAlign: center
+  - type: FeaturedItemsSection
+    title: Featured Projects
+    items:
+      - type: FeaturedItem
+        title: Yfinance Stock Analytics Dashboard
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/twitter-yahoo-finance-python.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/MinhPhanBabsonMSBA/Stock-analysis-'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'Flight Delay Prediction R Shiny '
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/EGK7L6NO4ZG5ZNLBA6WV5JJ44M.avif
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis-App
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 'AdventureWorks Customer Segmentation '
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/1607110048550.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: 'Learn more '
+            altText: ''
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/AdventureWorks_Customer_Segmentation
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: BlueBike Case Study
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/AZUTNET36N7PKIGWM77DIXZW2M.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/MinhPhanBabsonMSBA/Blue-Bike-Case-Study'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: Champion Customer Segmentation SAS Analytics
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            /images/Champion_Sportswear_store_at_Ito_Yokado_Beijing_Yayuncun_Store_2F_(20220902125029).jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /a
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-five.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
+    colors: colors-f
+    columns: 2
+    spacingX: 50
+    spacingY: 40
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
         padding:
           - pt-28
-          - pb-48
+          - pb-36
           - pl-4
           - pr-4
-        textAlign: left
-  - type: ContactSection
+        textAlign: center
+  - type: FeaturedItemsSection
+    title: Featured Posts
+    items:
+      - type: FeaturedItem
+        title: >-
+          Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven
+          Finance
+        subtitle: ''
+        text: >+
+          Curious how data analytics can unlock smarter investment strategies
+          and drive financial outcomes? In this post, I share my personal
+          journey into the world of data-driven finance — from exploring
+          predictive modeling and algorithmic trading to building real-time
+          stock analysis tools using Python, R, and TensorFlow.
+
+
+
+
+        featuredImage:
+          type: ImageBlock
+          url: /images/finance.jpeg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: >-
+              https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: >-
+          LinkedIn Post: When Life Gives You Flight Delays, Build a Prediction
+          App
+        subtitle: ''
+        text: >
+          During that unexpected delay on New Year's Eve, I turned my curiosity
+          into action by diving into real-world flight data from JFK, Newark,
+          and LaGuardia airports. I used a dataset covering 59 destinations
+          across the U.S.
+        featuredImage:
+          type: ImageBlock
+          url: /images/download (3).jpeg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: >-
+              https://www.linkedin.com/posts/minh-phan-0409_it-is-the-new-years-holiday-one-of-the-activity-7280805963832410112-8Cs3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqZtsBPRL7Pr6cF5BsmZDxQEWSeTpKJ-o
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: F1 + Data Science
+        subtitle: ''
+        text: |
+          Coming Soon ...
+        featuredImage:
+          type: ImageBlock
+          url: /images/Dutch_GP_Desktop_Wallpaper_2.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
     colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        self:
-          textAlign: center
+    columns: 2
+    spacingX: 50
+    spacingY: 40
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
-        flexDirection: row
-        textAlign: left
+          - pr-4
+        textAlign: center
+  - type: QuoteSection
+    quote: >-
+      “If you don't see me cleaning data, you can find me in the kitchen
+      experimenting with new dishes ;))”
+    name: Mike Phan
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
+  - type: LabelsSection
+    title: Connect with Me!
+    subtitle: ''
+    items:
+      - type: Label
+        label: Let's Talk
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
+      - type: Label
+        label: Resume
+        url: >-
+          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
 ---
