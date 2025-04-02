@@ -120,7 +120,7 @@ sections:
           - pb-12
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: right
   - type: FeaturedItemsSection
     title: Featured Projects
     items:
