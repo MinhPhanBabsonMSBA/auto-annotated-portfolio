@@ -57,6 +57,10 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
 I am excited to share my first Medium article: "Data to Dollars: An Enthusiast's Journey into Data-Driven Finance"! 📊💡Recently, I've been experimenting with bridging data analytics and financial insights. The result? A Stock Analytics Dashboard, built out of curiosity and the desire to test the concept that data science can democratize financial knowledge and market clarity.
 Dive into my article below and join me in exploring how data-driven experiments can reshape our understanding of finance ! <https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000>
