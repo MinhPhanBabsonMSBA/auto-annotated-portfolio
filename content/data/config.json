@@ -32,7 +32,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "",
             "email": "mphan1@babson.edu",
             "emailAltText": "mphan1@babson.edu",
