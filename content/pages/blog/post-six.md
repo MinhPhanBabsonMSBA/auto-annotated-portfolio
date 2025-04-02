@@ -62,5 +62,5 @@ metaTags:
     property: 'og:title'
     content: ''
 ---
-<div style="text-align: left">Read my article here: <https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000></div>
+<div style="text-align: left">The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit, designed to provide users with a wide range of stock market analysis capabilities. From fundamental and technical analysis to portfolio simulation and optimization, this dashboard is a one-stop solution for investors and traders looking to make data-driven decisions.</div>
 
