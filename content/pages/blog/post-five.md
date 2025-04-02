@@ -37,7 +37,7 @@ metaTags:
     content: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot 2025-04-02 at 12.01.53 PM.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
