@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
-    text: >
+    text: >+
       Hello, Welcome to my Portfolio!
 
 
@@ -20,10 +20,8 @@ sections:
       strong foundation in machine learning, data analytics, and cloud-based
       data engineering. With hands-on experience in Python, R, SQL, and modern
       BI tools like Tableau and Power BI, I specialize in transforming complex
-      data into actionable business insights.</div>
+      data into actionable business insights.![](/images/IMG_8525-2.jpg)</div>
 
-
-      ![](/images/Matplotlib%20Chart.png)
     actions:
       - type: Button
         label: My resume
