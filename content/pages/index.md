@@ -277,7 +277,7 @@ sections:
           - pr-4
         textAlign: center
   - type: LabelsSection
-    title: Skills
+    title: ''
     subtitle: The section subtitle
     items:
       - type: Label
