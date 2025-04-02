@@ -342,8 +342,8 @@ sections:
     showFeaturedImage: false
     actions: []
     posts:
-      - content/pages/blog/post-five.md
       - content/pages/blog/post-six.md
+      - content/pages/blog/post-five.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
