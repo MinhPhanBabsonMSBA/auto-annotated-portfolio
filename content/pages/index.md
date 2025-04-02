@@ -21,11 +21,7 @@ sections:
       at Babson Graduate School of Business with a strong foundation in machine
       learning, data analytics, and cloud-based data engineering. I specialize
       in transforming complex data into actionable business insights using tools
-      like Python, R, SQL, Tableau, and Power BI.
-
-
-
-      </div>
+      like Python, R, SQL, Tableau, and Power BI.</div>
 
     actions:
       - type: Button
