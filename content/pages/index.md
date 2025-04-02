@@ -63,7 +63,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: ''
         altText: ''
         url: 'https://github.com/MinhPhanBabsonMSBA'
         showIcon: false
