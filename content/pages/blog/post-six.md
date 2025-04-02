@@ -10,8 +10,10 @@ excerpt: >-
   of data-driven finance.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
-  altText: Post thumbnail image
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
