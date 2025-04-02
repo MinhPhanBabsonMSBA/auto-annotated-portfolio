@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Flight Delay Prediction Project
+title: 'Flight Delay Prediction Project '
 colors: colors-a
 date: '2022-01-22'
 client: ''
