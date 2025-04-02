@@ -18,7 +18,7 @@ sections:
       A Master’s student at Babson Graduate School of Business with a strong
       foundation in machine learning, data analytics, and cloud-based data
       engineering. I focus on transforming complex data into clear, actionable
-      insights that drive smarter decisions and solve real-world business
+      insights that drive strategic decisions and solve real-world business
       problems.
         </p></div>
       <!-- Tech Stack Section -->
