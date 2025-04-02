@@ -31,6 +31,17 @@ bottomSections:
         textAlign: left
     showFeaturedImage: true
     showReadMoreLink: true
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 metaTags:
   - type: MetaTag
     property: 'og:title'
