@@ -12,7 +12,7 @@ media:
 bottomSections: []
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/AdobeStock_17709706-1024x768.jpeg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
