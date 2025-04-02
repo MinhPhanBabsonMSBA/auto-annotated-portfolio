@@ -80,7 +80,7 @@ sections:
             label: Learn More
             altText: ''
             url: /
-            showIcon: true
+            showIcon: false
             icon: github
             iconPosition: right
             style: primary
