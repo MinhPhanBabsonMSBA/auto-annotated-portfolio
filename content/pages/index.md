@@ -80,7 +80,7 @@ sections:
             label: ''
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowRightCircle
             iconPosition: right
             style: primary
