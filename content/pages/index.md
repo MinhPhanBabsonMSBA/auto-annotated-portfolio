@@ -17,7 +17,7 @@ sections:
       Portfolio!**</div>
 
 
-      <div style="text-align: center">###### I am Mike Phan, a Master's Student
+      <div style="text-align: center">###### I'm Mike Phan, a Master's Student
       at Babson Graduate School of Business with a strong foundation in machine
       learning, data analytics, and cloud-based data engineering. With hands-on
       experience in Python, R, SQL, and modern BI tools like Tableau and Power
