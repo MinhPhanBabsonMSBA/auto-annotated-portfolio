@@ -30,7 +30,7 @@ sections:
         altText: ''
         url: 'https://www.linkedin.com/in/minh-phan-0409'
         showIcon: false
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         style: primary
         elementId: ''
