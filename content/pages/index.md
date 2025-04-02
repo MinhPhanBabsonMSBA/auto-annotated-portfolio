@@ -12,9 +12,8 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Hello, Welcome to  my Portfolio! 
     actions: []
     colors: colors-f
     backgroundSize: full
