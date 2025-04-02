@@ -166,8 +166,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/AZUTNET36N7PKIGWM77DIXZW2M.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
