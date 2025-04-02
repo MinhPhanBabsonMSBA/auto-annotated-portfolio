@@ -81,7 +81,7 @@ sections:
             altText: ''
             url: /
             showIcon: true
-            icon: github
+            icon: ''
             iconPosition: right
             style: primary
             elementId: ''
