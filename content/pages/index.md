@@ -218,7 +218,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: ''
+            url: 'https://github.com/MinhPhanBabsonMSBA/Blue-Bike-Case-Study'
             showIcon: true
             icon: arrowRight
             iconPosition: right
