@@ -272,31 +272,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions: []
-    showDate: false
-    showDescription: false
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-d
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: Featured Projects
-    title: ''
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
