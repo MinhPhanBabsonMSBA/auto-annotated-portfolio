@@ -166,7 +166,7 @@ sections:
     actions: []
     colors: colors-f
     columns: 3
-    spacingX: 31
+    spacingX: 28
     spacingY: 160
     elementId: ''
     styles:
