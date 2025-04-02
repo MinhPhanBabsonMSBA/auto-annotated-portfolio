@@ -90,14 +90,14 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/BMC.pdf.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
         url: /images/Alteryx Fundamentals certificate.jpg
         altText: Image two
         caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/BMC.pdf.jpg
+        altText: Image one
+        caption: Image one caption
         elementId: ''
       - type: ImageBlock
         url: >-
