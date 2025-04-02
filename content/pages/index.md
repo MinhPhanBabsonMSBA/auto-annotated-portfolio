@@ -210,7 +210,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'LinkedIn Post: '
+        title: >-
+          LinkedIn Post: When Life Gives You Flight Delays, Build a Prediction
+          App
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
