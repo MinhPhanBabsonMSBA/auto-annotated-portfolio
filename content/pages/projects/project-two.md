@@ -14,4 +14,5 @@ featuredImage:
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
+  url: /images/twitter-yahoo-finance-python.jpg
 ---
