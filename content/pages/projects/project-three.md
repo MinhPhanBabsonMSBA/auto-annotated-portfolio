@@ -15,7 +15,7 @@ media:
   altText: Project image
 bottomSections:
   - type: FeaturedProjectsSection
-    subtitle: 'Other Projects:'
+    subtitle: 'Featured Projects:'
     actions:
       - type: Link
         label: See all projects
