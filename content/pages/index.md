@@ -67,7 +67,7 @@ sections:
         altText: ''
         url: 'https://github.com/MinhPhanBabsonMSBA'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
