@@ -177,7 +177,7 @@ sections:
           - pt-28
           - pb-36
           - pl-4
-          - pr-4
+          - pr-6
         textAlign: center
   - type: FeaturedItemsSection
     title: Value propositions
