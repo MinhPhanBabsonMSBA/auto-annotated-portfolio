@@ -29,16 +29,6 @@
                 "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "",
-            "phoneAltText": "",
-            "email": "mphan1@babson.edu",
-            "emailAltText": "mphan1@babson.edu",
-            "address": "",
-            "addressAltText": "My address"
-        },
         "copyrightText": "",
         "styles": {
             "self": {
