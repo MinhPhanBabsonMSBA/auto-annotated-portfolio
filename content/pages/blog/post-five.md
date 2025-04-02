@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'LinkedIn Post: Flight Delay Experience and the data project behind it'
+title: 'LinkedIn Post: When Life Gives You Flight Delays, Build a Prediction App'
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
