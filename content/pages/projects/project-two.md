@@ -26,7 +26,7 @@ The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit,
 
 ## [Demo Video](https://youtu.be/qGxx_UxXFOo?si=-ytF-qxe0LXk18zL)
 
-## [Medium Post](https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000)
+[Medium Post](https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000)
 
 ## Features
 
@@ -38,6 +38,7 @@ The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit,
 *   **RSI Indicator:** Analyze the Relative Strength Index (RSI) to gauge momentum.
 *   **Dividend History:** Explore dividend payouts over time with interactive visualizations.
 
+![](/images/demo%201.png)![](/images/demo%202.png)
 
 ### Portfolio Simulation (Equal Weighted Method)
 
@@ -46,7 +47,7 @@ The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit,
 *   **Portfolio Metrics:** Calculate key metrics such as average annual return, Sharpe Ratio, Treynor Ratio, and Information Ratio.
 *   **Comparison to S\&P 500:** Benchmark your portfolio's performance against the S\&P 500.
 
-
+![](/images/demo%203.png)![](/images/demo%204.png) 
 
 ### LSTM Prediction (Demo)
 
@@ -54,7 +55,7 @@ The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit,
 *   **Model Customization:** Adjust model parameters such as look-back period, epochs, batch size, and LSTM layers.
 *   **Performance Metrics:** Evaluate the model's performance using R² Score, MAPE, and Accuracy Rate.
 
-
+![](/images/demo%205.png)
 
 ### Portfolio Optimization
 
@@ -64,7 +65,7 @@ The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit,
 *   **Optimization Results:** View optimized portfolio weights, expected annual return, annual volatility, and Sharpe ratio.
 *   **Visualizations:** Explore portfolio allocation through bar charts and pie charts.
 
-
+![](/images/demo%206.png) ![](/images/demo%207.png)![](/images/demo%208.png)
 
 ## 📖 Usage
 
@@ -76,11 +77,9 @@ Choose from **Fundamental & Technical Analysis, Portfolio Simulation, LSTM Predi
 *   For individual stock analysis, enter the stock ticker (e.g., `AAPL`).
 *   For portfolio analysis, enter multiple tickers separated by commas (e.g., `AAPL,MSFT,GOOGL`).
 
-**Customize Parameters:**\
-Adjust model parameters, time periods, and other settings as needed.
+**Customize Parameters:**Adjust model parameters, time periods, and other settings as needed.
 
-**View Results:**\
-Explore the **interactive visualizations** and **metrics** provided by the dashboard.
+**View Results:** Explore the **interactive visualizations** and **metrics** provided by the dashboard.
 
 ***
 
