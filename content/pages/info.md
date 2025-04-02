@@ -65,7 +65,7 @@ sections:
       - type: Label
         label: 'R(Statistics, Machine Learning) '
       - type: Label
-        label: Next.js
+        label: ' Alteryx'
       - type: Label
         label: Netlify
       - type: Label
