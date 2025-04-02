@@ -339,7 +339,7 @@ sections:
         url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: Email
-        url: ''
+        url: mphan1@babson.edu
       - type: Label
         label: Microsoft Office
         url: ''
