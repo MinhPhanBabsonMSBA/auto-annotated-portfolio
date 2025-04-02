@@ -23,5 +23,5 @@ featuredImage:
   caption: ''
   elementId: ''
 ---
-<div style="text-align: left">Check out my complete project work:  [GitHub Repository](https://github.com/MinhPhanBabsonMSBA/Stock-analysis-)</div>
+<div style="text-align: left">## **Check out my complete project work:**  [**GitHub Repository**](https://github.com/MinhPhanBabsonMSBA/Stock-analysis-)</div>
 
