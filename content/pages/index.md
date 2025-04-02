@@ -330,24 +330,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - type: QuoteSection
-    quote: >-
-      “If you don't see me cleaning data, you can find me in the kitchen
-      experimenting with new dishes”
-    name: Mike Phan
-    title: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
@@ -382,6 +364,24 @@ sections:
       self:
         height: auto
         width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
+  - type: QuoteSection
+    quote: >-
+      “If you don't see me cleaning data, you can find me in the kitchen
+      experimenting with new dishes”
+    name: Mike Phan
+    title: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
         padding:
           - pt-36
           - pb-36
