@@ -118,8 +118,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/EGK7L6NO4ZG5ZNLBA6WV5JJ44M.avif
           altText: Item image
           caption: Caption of the image
           elementId: ''
