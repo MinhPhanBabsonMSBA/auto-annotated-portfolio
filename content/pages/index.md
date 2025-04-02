@@ -57,7 +57,7 @@ sections:
         label: Contact Me
         altText: ''
         url: 'https://www.linkedin.com/in/minh-phan-0409'
-        showIcon: true
+        showIcon: false
         icon: linkedin
         iconPosition: right
         style: primary
