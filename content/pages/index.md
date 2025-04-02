@@ -274,7 +274,7 @@ sections:
           across the U.S.
         featuredImage:
           type: ImageBlock
-          url: /images/AdobeStock_17709706-1024x768.jpeg
+          url: /images/download (3).jpeg
           altText: Item image
           caption: Caption of the image
           elementId: ''
