@@ -140,7 +140,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: ''
+            url: 'https://github.com/MinhPhanBabsonMSBA/Stock-analysis-'
             showIcon: true
             icon: arrowRight
             iconPosition: right
