@@ -73,7 +73,9 @@ sections:
       - type: Label
         label: 'Visualization Tools: Tableau | Power BI | Google Looker Studio'
       - type: Label
-        label: Swift
+        label: >-
+          Cloud: AWS (S3, EC2, Crawler, CloudWatch, Glue, Athena, Lambda,
+          Redshift) | GCP (Bucket, Mage Compute Engine,Big query)
     title: My Skills
   - type: DividerSection
     styles:
