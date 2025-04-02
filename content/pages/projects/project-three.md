@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/1607110048550.png
+  url: /images/AdobeStock_17709706-1024x768.jpeg
   altText: Project image
 bottomSections:
   - type: FeaturedProjectsSection
