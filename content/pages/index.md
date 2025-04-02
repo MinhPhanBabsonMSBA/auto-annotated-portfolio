@@ -332,7 +332,7 @@ sections:
         textAlign: center
   - type: QuoteSection
     quote: >-
-      “If you don't see me cleaning data, you can me in the kitchen
+      “If you don't see me cleaning data, you can find me in the kitchen
       experimenting with new dishes”
     name: Mike Phan
     title: Full Time Students and Part Time Chef
