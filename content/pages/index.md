@@ -241,7 +241,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: F1 Passions + Data Science
+        title: F1 + Data Science
         subtitle: ''
         text: |
           Coming Soon ...
