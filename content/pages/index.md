@@ -14,7 +14,17 @@ sections:
     title: Minh (Mike) Phan Portfolio
     text: |
       Hello, Welcome to  my Portfolio! 
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: >-
+          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
