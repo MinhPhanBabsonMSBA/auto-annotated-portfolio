@@ -74,6 +74,7 @@ sections:
         label: C++
       - type: Label
         label: Swift
+    title: My Skills
   - type: DividerSection
     styles:
       self:
