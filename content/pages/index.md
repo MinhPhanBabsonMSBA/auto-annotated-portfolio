@@ -299,8 +299,7 @@ sections:
           Coming Soon ...
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/pexels-jonathanborba-29276537.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
