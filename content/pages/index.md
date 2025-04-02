@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: '         Minh (Mike) Phan Portfolio'
+    title: Minh (Mike) Phan Portfolio
     subtitle: ''
     styles:
       self:
