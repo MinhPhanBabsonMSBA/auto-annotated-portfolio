@@ -42,7 +42,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Minh (Mike) Phan Portfolio
+    title: ''
     subtitle: ''
     styles:
       self:
