@@ -1,28 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "Minh (Mike) Phan Portfolio",
-        "isTitleVisible": true,
-        "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "narrow"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
