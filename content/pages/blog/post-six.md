@@ -41,6 +41,15 @@ bottomSections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: >-
+          https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
 socialImage: /images/1607110048550.png
 featuredImage:
   type: ImageBlock
