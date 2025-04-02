@@ -335,7 +335,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Linkedin
         url: ''
       - type: Label
         label: React
