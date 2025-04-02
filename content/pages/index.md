@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /images/3d-render-modern-particle-flow-background-with-cyber-dots.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
