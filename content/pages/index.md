@@ -12,8 +12,19 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
-    text: |
-      Hello, Welcome to  my Portfolio! 
+    text: >+
+      Hello, Welcome to my Portfolio !
+
+
+      I’m Mike Phan, a data analyst with a strong foundation in machine
+      learning, business analytics, and cloud-based data engineering. With
+      hands-on experience in Python, R, SQL, and modern BI tools like Tableau
+      and Power BI, I specialize in transforming complex data into actionable
+      business insights.
+
+
+
+
     actions:
       - type: Button
         label: My resume
