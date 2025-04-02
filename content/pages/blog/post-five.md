@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'LinkedIn Post: Flight Delay Experience and '
+title: 'LinkedIn Post: Flight Delay Experience and the data project behind it'
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
