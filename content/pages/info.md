@@ -71,7 +71,7 @@ sections:
       - type: Label
         label: Jira Project Management
       - type: Label
-        label: C++
+        label: 'Visualization Tools: Tableau | Power BI | Google Looker Studio'
       - type: Label
         label: Swift
     title: My Skills
