@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: "Hello, Welcome to my Portfolio  \U0001F44B"
+    title: "Hello, Welcome to my Portfolio \U0001F44B"
     text: >+
 
 
