@@ -17,7 +17,7 @@ media:
   aspectRatio: '16:9'
 featuredImage:
   type: ImageBlock
-  url: /images/CAN-DATA-SCIENCE-PREDICT-THE-STOCK-MARKET.webp
+  url: /images/twitter-yahoo-finance-python.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
