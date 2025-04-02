@@ -14,10 +14,18 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      I’m Mike Phan, a Master’s student in Business Analytics at Babson College
+      with a passion for solving real-world problems through data. I specialize
+      in turning raw data into clear, actionable insights using tools like
+      Python, R, SQL, and BI platforms like Tableau and Power BI. My interests
+      lie at the intersection of analytics, machine learning, and strategy—and I
+      love building projects that combine technical rigor with real impact.
+      Whether it’s predicting stock prices, segmenting customers, or tackling
+      unexpected challenges like flight delays, I’m always looking for new ways
+      to turn data into decisions.
+
+
+
 
     media:
       type: ImageBlock
