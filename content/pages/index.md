@@ -335,7 +335,7 @@ sections:
       “If you don't see me cleaning data, you can find me in the kitchen
       experimenting with new dishes”
     name: Mike Phan
-    title: Full Time Student and Part Time Chef
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
