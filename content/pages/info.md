@@ -69,7 +69,7 @@ sections:
       - type: Label
         label: SAS Analytics
       - type: Label
-        label: Pancakes
+        label: Jira Project Management
       - type: Label
         label: C++
       - type: Label
