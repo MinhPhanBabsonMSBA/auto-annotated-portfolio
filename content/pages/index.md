@@ -335,10 +335,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: >-
-          Linkedin <img width="30" height="30"
-          src="https://img.icons8.com/ios-glyphs/30/linkedin.png"
-          alt="linkedin"/>
+        label: Linkedin
         url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: React
