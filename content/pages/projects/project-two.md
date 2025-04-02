@@ -7,6 +7,6 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/about.jpg
   altText: Project image
 ---
