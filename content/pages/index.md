@@ -118,7 +118,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'AdventureWorks Customer Segmentation Report '
+        title: 'AdventureWorks Customer Segmentation '
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
