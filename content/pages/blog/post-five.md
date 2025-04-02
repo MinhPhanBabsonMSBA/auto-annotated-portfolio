@@ -4,7 +4,7 @@ title: 'LinkedIn Post: Flight Delay Experience and '
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: ' Sneak Peek: Turning Travel Frustration into Data Insight'
+excerpt: Turning Travel Frustration into Data Insight
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
