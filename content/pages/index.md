@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: "Hello, Welcome to my Portfolio \U0001F44B"
-    text: >+
+    text: |+
       <div style="text-align: center">  <h3>I’m Mike Phan</h3>
         <p>
           A Master’s student at Babson Graduate School of Business with a strong foundation in 
@@ -20,27 +20,25 @@ sections:
           complex data into actionable business insights using tools like Python, R, SQL, Tableau, and Power BI.
         </p></div>
 
-      <!-- Tech Stack Section -->
 
 
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap:
-      10px; margin-top: 30px;">
-        <img src="https\://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54"/>
-        <img src="https\://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge\&logo=r\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black"/>
-        <img src="https\://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge\&logo=plotly\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge\&logo=numpy\&logoColor=blue"/>
-        <img src="https\://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge\&logo=microsoftazure\&logoColor=white"/>
-        <img src="https\://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge\&logo=anaconda\&logoColor=white"/>
-      </div>
+      <div class="badge-container">
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+          <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+          <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+          <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
+          <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+          <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+        </div>
 
     actions:
       - type: Button
