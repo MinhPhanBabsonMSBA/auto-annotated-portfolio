@@ -23,9 +23,6 @@ sections:
       and modern BI tools like Tableau and Power BI, I specialize in
       transforming complex data into actionable business insights.**</div>
 
-
-      ######
-
     actions:
       - type: Button
         label: My resume
