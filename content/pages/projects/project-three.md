@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/AdobeStock_17709706-1024x768.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
