@@ -191,7 +191,7 @@ sections:
         featuredImage:
           type: ImageBlock
           url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+            /images/Champion_Sportswear_store_at_Ito_Yokado_Beijing_Yayuncun_Store_2F_(20220902125029).jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
