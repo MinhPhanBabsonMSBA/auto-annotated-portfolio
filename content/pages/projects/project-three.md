@@ -7,7 +7,7 @@ client: ''
 description: ''
 media:
   type: ImageBlock
-  url: /images/AdobeStock_17709706-1024x768.jpeg
+  url: /images/AZUTNET36N7PKIGWM77DIXZW2M.jpg
   altText: Project image
 bottomSections:
   - type: FeaturedProjectsSection
