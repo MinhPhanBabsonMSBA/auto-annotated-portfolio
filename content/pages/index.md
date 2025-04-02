@@ -140,7 +140,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: BlueBike Case Study
         subtitle: ''
         text: ''
         featuredImage:
