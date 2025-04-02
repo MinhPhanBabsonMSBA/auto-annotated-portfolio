@@ -19,7 +19,7 @@ sections:
       problems through data. I specialize in turning raw data into clear,
       actionable insights using tools like Python, R, SQL, and BI platforms like
       Tableau and Power BI. My interests lie at the intersection of analytics,
-      machine learning, and strategy</div>
+      machine learning, and strategy.</div>
 
     media:
       type: ImageBlock
