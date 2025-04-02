@@ -335,7 +335,7 @@ sections:
       “If you don't see me cleaning data, you can find me in the kitchen
       experimenting with new dishes”
     name: Mike Phan
-    title: Product Marketing Manager at Acme
+    title: Full Time Students and Part Time Chef
     colors: colors-f
     elementId: ''
     styles:
