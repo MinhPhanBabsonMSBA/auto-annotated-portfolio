@@ -17,7 +17,7 @@ sections:
 
 
       <div style="text-align: left">I’m Mike Phan, a business analyst with a
-      strong foundation in machine learning, business analytics, and cloud-based
+      strong foundation in machine learning, data analytics, and cloud-based
       data engineering. With hands-on experience in Python, R, SQL, and modern
       BI tools like Tableau and Power BI, I specialize in transforming complex
       data into actionable business insights.</div>
