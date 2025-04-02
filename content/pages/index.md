@@ -214,10 +214,12 @@ sections:
           LinkedIn Post: When Life Gives You Flight Delays, Build a Prediction
           App
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >+
+          During that unexpected delay on New Year's Eve, I turned my curiosity
+          into action by diving into real-world flight data from JFK, Newark,
+          and LaGuardia airports. I used a dataset covering 59 destinations
+          across the U.S.
+
         featuredImage:
           type: ImageBlock
           url: >-
