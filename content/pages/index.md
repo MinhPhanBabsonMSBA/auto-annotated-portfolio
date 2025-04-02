@@ -299,7 +299,7 @@ sections:
           Coming Soon ...
         featuredImage:
           type: ImageBlock
-          url: /images/pexels-jonathanborba-29276537.jpg
+          url: /images/Dutch_GP_Desktop_Wallpaper_2.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
