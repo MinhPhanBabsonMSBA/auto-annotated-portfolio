@@ -62,4 +62,5 @@ metaTags:
     property: 'og:title'
     content: ''
 ---
-<div style="text-align: left">Check out the full article here: <https: medium.com="" @phanm48="" data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000=""></https:></div>
+<div style="text-align: left">Check out the full article here : <https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000></div>
+
