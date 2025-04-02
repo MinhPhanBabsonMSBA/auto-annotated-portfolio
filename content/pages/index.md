@@ -13,8 +13,7 @@ sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
     text: >+
-      <div style="text-align: center">### **Hello, Welcome to my
-      Portfolio!**</div>
+      <div style="text-align: center">****</div>
 
 
       <div style="text-align: center">###### **I’m Mike Phan, a business analyst
