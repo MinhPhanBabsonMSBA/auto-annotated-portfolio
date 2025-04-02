@@ -3,9 +3,7 @@ type: ProjectLayout
 title: This is a project title
 date: '2024-12-16'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/AZUTNET36N7PKIGWM77DIXZW2M.jpg
