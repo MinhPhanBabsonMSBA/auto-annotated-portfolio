@@ -13,9 +13,7 @@ sections:
   - type: CtaSection
     title: Minh (Mike) Phan Portfolio
     text: >+
-      # Hello, Welcome to my Portfolio
-
-
+      ### Hello, Welcome to my Portfolio
 
 
       <div style="text-align: center">I’m Mike Phan, a Master’s student at
