@@ -359,9 +359,6 @@ sections:
         label: Microsoft Office
         url: ''
       - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
         label: Netlify
         url: ''
       - type: Label
