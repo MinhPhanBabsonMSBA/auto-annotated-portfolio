@@ -61,7 +61,9 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: React
+        label: >-
+          Python (NumPy, Pandas, Matplotlib) | R(Statistics, Machine Learning) |
+          Alteryx | SAS | JIRA
       - type: Label
         label: Microsoft Office
       - type: Label
