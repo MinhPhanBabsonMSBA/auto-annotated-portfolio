@@ -113,7 +113,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: "**2015-2018**\n\n*   ba computer sciense at a semi fancy school\n\n**2021 - 2024**\n\n*   Bachelor of Science, Information Technology at NORTHEASTERN UNIVERSITY, Boston, MA\_\n\n     GPA: 3.65 / 4.0 (Cum Laude)\n\n\n\n\n\n\n\n"
+        text: "**2024-2025**\n\n*   M.S. in Business Analytics Candidate at BABSON COLLEGE, F.W. OLIN GRADUATE SCHOOL OF BUSINESS, Wellesley, MA\_\n\n\n\n\n\n**2021 - 2024**\n\n*   Bachelor of Science, Information Technology at NORTHEASTERN UNIVERSITY, Boston, MA\_\n\n    GPA: 3.65 / 4.0 (Cum Laude)\n\n"
         styles:
           self:
             textAlign: left
