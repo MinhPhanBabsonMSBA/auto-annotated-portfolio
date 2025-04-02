@@ -50,7 +50,7 @@ bottomSections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-socialImage: /images/1607110048550.png
+socialImage: /images/CAN-DATA-SCIENCE-PREDICT-THE-STOCK-MARKET.webp
 featuredImage:
   type: ImageBlock
   url: /images/CAN-DATA-SCIENCE-PREDICT-THE-STOCK-MARKET.webp
