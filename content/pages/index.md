@@ -349,7 +349,7 @@ sections:
           - pr-4
         textAlign: center
   - type: LabelsSection
-    title: Connect with Me !
+    title: Connect with Me!
     subtitle: The section subtitle
     items:
       - type: Label
