@@ -14,12 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      <div style="text-align: center">### Hi, I’m Mike Phan, a Master’s student
-      in Business Analytics at Babson College with a passion for solving
-      real-world problems through data. I specialize in turning raw data into
-      clear, actionable insights using tools like Python, R, SQL, and BI
-      platforms like Tableau and Power BI. My interests lie at the intersection
-      of analytics, machine learning, and strategy</div>
+      <div style="text-align: left">### Hi, I’m Mike Phan, a Master’s student in
+      Business Analytics at Babson College with a passion for solving real-world
+      problems through data. I specialize in turning raw data into clear,
+      actionable insights using tools like Python, R, SQL, and BI platforms like
+      Tableau and Power BI. My interests lie at the intersection of analytics,
+      machine learning, and strategy</div>
 
     media:
       type: ImageBlock
