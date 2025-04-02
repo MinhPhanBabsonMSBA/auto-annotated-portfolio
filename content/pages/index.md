@@ -12,12 +12,14 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: "Hello, Welcome to my Portfolio \U0001F44B"
-    text: >
+    text: >+
       <div style="text-align: center">  <h3>I’m Mike Phan</h3>
         <p>
-          A Master’s student at Babson Graduate School of Business with a strong foundation in 
-          machine learning, data analytics, and cloud-based data engineering. I specialize in transforming 
-          complex data into actionable business insights using tools like Python, R, SQL, Tableau, and Power BI.
+      A Master’s student at Babson Graduate School of Business with a strong
+      foundation in machine learning, data analytics, and cloud-based data
+      engineering. I focus on transforming complex data into clear, actionable
+      insights that drive smarter decisions and solve real-world business
+      problems.
         </p></div>
       <!-- Tech Stack Section -->
 
@@ -39,6 +41,7 @@ sections:
         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
         <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
       </div>
+
     actions:
       - type: Button
         label: My resume
