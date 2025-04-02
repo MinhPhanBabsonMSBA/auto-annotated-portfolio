@@ -15,16 +15,7 @@ sections:
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
