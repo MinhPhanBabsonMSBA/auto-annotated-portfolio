@@ -159,7 +159,7 @@ sections:
             label: Learn more
             altText: ''
             url: sd
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
