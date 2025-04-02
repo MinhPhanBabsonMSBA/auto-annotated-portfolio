@@ -22,8 +22,15 @@ featuredImage:
   caption: ''
   elementId: ''
 ---
-<div style="text-align: left">The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit, designed to provide users with a wide range of stock market analysis capabilities. From fundamental and technical analysis to portfolio simulation and optimization, this dashboard is a one-stop solution for investors and traders looking to make data-driven decisions. [Demo Video](https://youtu.be/qGxx_UxXFOo?si=-ytF-qxe0LXk18zL) Features Fundamental & Technical Analysis\*   **Key Financial Indicators:** View essential metrics such as P/E Ratio, EPS, P/B Ratio, Debt-to-Equity Ratio, and Return on Equity (ROE).\*   **Estimated Stock Price:** Calculate the estimated stock price based on EPS and P/E Ratio.\*   **Stock Price with Moving Averages:** Visualize stock prices with 20-day and 50-day Simple Moving Averages (SMA).\*   **RSI Indicator:** Analyze the Relative Strength Index (RSI) to gauge momentum.*   **Dividend History:** Explore dividend payouts over time with interactive visualizations.![](/images/demo%201.png)![](/images/demo%202.png)### Portfolio Simulation (Equal Weighted Method)\*   **Portfolio Performance:** Track the cumulative returns of a portfolio with equal-weighted assets.
-*   **Correlation Heatmap:** Visualize the correlation between assets in the portfolio.
+<div style="text-align: left">The **Stock Analytics Dashboard** is a comprehensive tool built using Streamlit, designed to provide users with a wide range of stock market analysis capabilities. From fundamental and technical analysis to portfolio simulation and optimization, this dashboard is a one-stop solution for investors and traders looking to make data-driven decisions. *   [Demo Video](https://youtu.be/qGxx_UxXFOo?si=-ytF-qxe0LXk18zL) **Features** Fundamental & Technical Analysis:1.    **Key Financial Indicators:** View essential metrics such as P/E Ratio, EPS, P/B Ratio, Debt-to-Equity Ratio, and Return on Equity (ROE).
+
+2.  **Estimated Stock Price:** Calculate the estimated stock price based on EPS and P/E Ratio.
+
+3.  **Stock Price with Moving Averages:** Visualize stock prices with 20-day and 50-day Simple Moving Averages (SMA).
+
+4.  **RSI Indicator:** Analyze the Relative Strength Index (RSI) to gauge momentum.
+
+5.  **Dividend History:** Explore dividend payouts over time with interactive visualizations.![](/images/demo%201.png)![](/images/demo%202.png)### Portfolio Simulation (Equal Weighted Method)\*   **Portfolio Performance:** Track the cumulative returns of a portfolio with equal-weighted assets.*   **Correlation Heatmap:** Visualize the correlation between assets in the portfolio.
 *   **Portfolio Metrics:** Calculate key metrics such as average annual return, Sharpe Ratio, Treynor Ratio, and Information Ratio.
 *   **Comparison to S\&P 500:** Benchmark your portfolio's performance against the S\&P 500.![](/images/demo%203.png)![](/images/demo%204.png)### LSTM Prediction (Demo)\*   **Stock Price Prediction:** Use Long Short-Term Memory (LSTM) neural networks to predict future stock prices.
 *   **Model Customization:** Adjust model parameters such as look-back period, epochs, batch size, and LSTM layers.
