@@ -274,8 +274,7 @@ sections:
           across the U.S.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/AdobeStock_17709706-1024x768.jpeg
           altText: Item image
           caption: Caption of the image
           elementId: ''
