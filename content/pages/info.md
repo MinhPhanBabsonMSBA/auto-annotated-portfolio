@@ -63,7 +63,7 @@ sections:
       - type: Label
         label: 'Python (NumPy, Pandas, Matplotlib) '
       - type: Label
-        label: Microsoft Office
+        label: 'R(Statistics, Machine Learning) '
       - type: Label
         label: Next.js
       - type: Label
