@@ -93,6 +93,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    title: Analytics Tools
   - type: DividerSection
     styles:
       self:
