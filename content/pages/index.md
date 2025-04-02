@@ -86,7 +86,7 @@ sections:
         flexDirection: col
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: Certifications
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
