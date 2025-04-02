@@ -54,7 +54,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Contact Me
+        label: Contact Me!
         altText: ''
         url: 'https://www.linkedin.com/in/minh-phan-0409'
         showIcon: false
