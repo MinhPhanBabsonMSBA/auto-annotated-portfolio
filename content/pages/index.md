@@ -171,7 +171,7 @@ sections:
           - pr-4
         textAlign: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Featured Posts
     items:
       - type: FeaturedItem
         title: >-
