@@ -59,10 +59,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: >-
-          Technical: SQL (CTE, Window function, Scalars Function, Recursive
-          Queries) | Python (NumPy, Pandas, Matplotlib) | R(Statistics, Machine
-          Learning) | Alteryx | SAS | JIRA
+        label: ''
       - type: Label
         label: React
       - type: Label
