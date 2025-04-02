@@ -59,7 +59,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: ''
+        label: SQL
       - type: Label
         label: React
       - type: Label
