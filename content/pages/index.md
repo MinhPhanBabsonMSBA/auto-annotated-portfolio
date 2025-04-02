@@ -338,7 +338,7 @@ sections:
         label: Linkedin
         url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
-        label: React
+        label: Email
         url: ''
       - type: Label
         label: Microsoft Office
