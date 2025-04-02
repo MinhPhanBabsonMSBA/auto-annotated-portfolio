@@ -44,21 +44,21 @@ sections:
 
     actions:
       - type: Button
+        label: Contact Me!
+        altText: ''
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
+        showIcon: false
+        icon: linkedin
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Resume
         altText: ''
         url: >-
           https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
         showIcon: false
         icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Contact Me!
-        altText: ''
-        url: 'https://www.linkedin.com/in/minh-phan-0409'
-        showIcon: false
-        icon: linkedin
         iconPosition: right
         style: primary
         elementId: ''
