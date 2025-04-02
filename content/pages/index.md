@@ -332,7 +332,7 @@ sections:
         textAlign: center
   - type: QuoteSection
     quote: >-
-      “ If you don't see me cleaning data, you can find me in the kitchen
+      “If you don't see me cleaning data, you can find me in the kitchen
       experimenting new dishes”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
