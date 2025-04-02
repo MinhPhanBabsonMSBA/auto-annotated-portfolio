@@ -26,7 +26,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Connect with me
         altText: ''
         url: 'https://www.linkedin.com/in/minh-phan-0409'
         showIcon: false
