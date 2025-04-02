@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Medium Post: '
+title: 'Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven Finance'
 colors: colors-a
 date: '2024-06-03'
 author: content/data/team/doris-soto.json
