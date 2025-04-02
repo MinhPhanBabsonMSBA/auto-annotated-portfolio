@@ -218,7 +218,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: sd
+            url: ''
             showIcon: true
             icon: arrowRight
             iconPosition: right
