@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'AdventureWorks Customer Segmentation Report '
+        title: Flight Delay Prediction R Shiny Project
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
@@ -118,7 +118,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Flight Delay Prediction R Shiny Project
+        title: 'AdventureWorks Customer Segmentation Report '
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
