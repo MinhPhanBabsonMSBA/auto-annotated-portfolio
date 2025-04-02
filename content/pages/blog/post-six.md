@@ -7,9 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: >-
   Curious how data analytics can unlock smarter investment strategies and drive
   financial outcomes? In this post, I share my personal journey into the world
-  of data-driven finance — from exploring predictive modeling and algorithmic
-  trading to building real-time stock analysis tools using Python, R, and
-  TensorFlow.
+  of data-driven finance.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
