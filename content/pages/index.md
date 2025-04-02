@@ -127,7 +127,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: 'Learn more '
             altText: ''
             url: /
             showIcon: true
