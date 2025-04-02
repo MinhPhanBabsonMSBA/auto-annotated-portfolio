@@ -83,7 +83,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: ''
+    subtitle: Featured Projects
     title: Featured Projects
   - type: FeaturedPostsSection
     elementId: ''
