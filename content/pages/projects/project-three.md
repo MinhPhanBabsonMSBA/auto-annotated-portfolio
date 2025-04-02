@@ -4,7 +4,7 @@ title: Flight Delay Prediction Project
 colors: colors-a
 date: '2022-01-22'
 client: ''
-description: Predicting flight delays using ML models
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
