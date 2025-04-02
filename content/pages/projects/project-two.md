@@ -18,7 +18,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/twitter-yahoo-finance-python.jpg
-  altText: altText of the image
+  altText: ''
   caption: ''
   elementId: ''
 ---
