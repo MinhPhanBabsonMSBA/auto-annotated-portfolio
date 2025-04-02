@@ -5,10 +5,6 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: ''
-media:
-  type: ImageBlock
-  url: /images/AdobeStock_17709706-1024x768.jpeg
-  altText: Project image
 bottomSections: []
 featuredImage:
   type: ImageBlock
