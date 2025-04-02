@@ -43,7 +43,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: right
-        flexDirection: col
+        flexDirection: row
     type: HeroSection
     actions: []
   - type: DividerSection
