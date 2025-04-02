@@ -272,29 +272,6 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
-    subtitle: Featured Posts
-    showFeaturedImage: false
-    actions: []
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-five.md
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: LabelsSection
     title: Skills
     subtitle: The section subtitle
