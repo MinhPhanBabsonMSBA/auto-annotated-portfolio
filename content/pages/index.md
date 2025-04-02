@@ -65,7 +65,7 @@ sections:
     title: Featured Projects
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Yfinance Stock Analytics Dashboard
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
