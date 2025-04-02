@@ -77,7 +77,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: asddd
+            label: Learn More
             altText: ''
             url: /
             showIcon: true
