@@ -7,7 +7,7 @@ client: ''
 description: ''
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/EGK7L6NO4ZG5ZNLBA6WV5JJ44M.avif
   altText: Project thumbnail image
 media:
   type: ImageBlock
