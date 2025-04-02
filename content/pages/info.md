@@ -63,7 +63,7 @@ sections:
       - type: Label
         label: 'Python (NumPy, Pandas, Matplotlib) '
       - type: Label
-        label: 'R(Statistics, Machine Learning) '
+        label: 'R (Statistics, Machine Learning) '
       - type: Label
         label: ' Alteryx'
       - type: Label
