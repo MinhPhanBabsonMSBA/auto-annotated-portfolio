@@ -115,7 +115,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: AdventureWorks Customer Segmentation Analytics
+        title: AdventureWorks Analytics
         subtitle: ''
         text: ''
         featuredImage:
