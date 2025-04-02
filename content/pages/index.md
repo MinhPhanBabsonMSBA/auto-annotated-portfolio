@@ -237,15 +237,7 @@ sections:
         styles:
           self:
             textAlign: left
-        actions:
-          - type: Link
-            label: Learn more
-            altText: ''
-            url: '/https://www.linkedin.com/in/minh-phan-0409'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            elementId: ''
+        actions: []
     actions: []
     colors: colors-f
     columns: 2
