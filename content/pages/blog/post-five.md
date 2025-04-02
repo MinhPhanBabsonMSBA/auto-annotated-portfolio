@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Turning Travel Frustration into Data Insight
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image5.jpg
+  url: /images/AdobeStock_17709706-1024x768.jpeg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
