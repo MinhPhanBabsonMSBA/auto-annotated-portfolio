@@ -331,7 +331,7 @@ sections:
           - pr-4
         textAlign: center
   - type: LabelsSection
-    title: ''
+    title: 'Connect with Me '
     subtitle: The section subtitle
     items:
       - type: Label
