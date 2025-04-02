@@ -164,7 +164,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /
+            url: ''
             showIcon: true
             icon: arrowRight
             iconPosition: right
