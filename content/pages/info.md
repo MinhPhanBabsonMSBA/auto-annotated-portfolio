@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/3d-render-modern-particle-flow-background-with-cyber-dots.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,14 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      <div style="text-align: left">### Hi, I’m Mike Phan, a Master’s student in
+      Business Analytics at Babson College with a passion for solving real-world
+      problems through data. I specialize in turning raw data into clear,
+      actionable insights using tools like Python, R, SQL, and BI platforms like
+      Tableau and Power BI. My interests lie at the intersection of analytics,
+      machine learning, and strategy.</div>
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_8525-2.jpg
       altText: Hero image
     styles:
       self:
@@ -38,7 +40,9 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+        flexDirection: row
     type: HeroSection
+    actions: []
   - type: DividerSection
     styles:
       self:
@@ -46,155 +50,33 @@ sections:
         padding:
           - pt-8
           - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    subtitle: 'You can find me here:'
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 16
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: ''
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: SQL
       - type: Label
-        label: React
+        label: 'Python (NumPy, Pandas, Matplotlib) '
       - type: Label
-        label: Microsoft Office
+        label: 'R (Statistics, Machine Learning) '
       - type: Label
-        label: Next.js
+        label: ' Alteryx'
       - type: Label
-        label: Netlify
+        label: SAS Analytics
       - type: Label
-        label: Pancakes
+        label: Jira Project Management
       - type: Label
-        label: C++
+        label: 'Visualization Tools: Tableau | Power BI | Google Looker Studio'
       - type: Label
-        label: Swift
+        label: >-
+          Cloud: AWS (S3, EC2, Crawler, CloudWatch, Glue, Athena, Lambda,
+          Redshift) | GCP (Bucket, Mage Compute Engine,Big query)
+    title: My Skills
   - type: DividerSection
     styles:
       self:
@@ -202,23 +84,6 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-4
-          - pr-4
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
           - pl-4
           - pr-4
         borderWidth: 1
@@ -228,43 +93,27 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Jun 2022 - August 2022**
 
-          * freelance @freelance.me
+          *   Technology Consultant - Pyramid Software and Consulting
 
-          **2018-2021**
 
-          * fullstack at this startup
 
-          **2015**
 
-          * senior front-end at this place
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
 
-          * flipping burgers
+
+
+
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
-
-          * ba computer sciense at a semi fancy school
-
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
+        text: "**2024-2025**\n\n*   M.S. in Business Analytics at BABSON COLLEGE, F.W. OLIN GRADUATE SCHOOL OF BUSINESS, Wellesley, MA\_\n\n**2021 - 2024**\n\n*   Bachelor of Science, Information Technology at NORTHEASTERN UNIVERSITY, Boston, MA\_\n\n    GPA: 3.65 / 4.0 (Cum Laude)\n\n"
         styles:
           self:
             textAlign: left
