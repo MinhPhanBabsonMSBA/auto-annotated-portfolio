@@ -243,10 +243,8 @@ sections:
       - type: FeaturedItem
         title: F1 Passions + Data Science
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Coming Soon ...
         featuredImage:
           type: ImageBlock
           url: >-
