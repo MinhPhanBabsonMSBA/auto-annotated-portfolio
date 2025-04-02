@@ -62,7 +62,7 @@ sections:
         flexDirection: col
         textAlign: center
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Featured Projects
     items:
       - type: FeaturedItem
         title: I'm Fast
