@@ -82,7 +82,7 @@ sections:
             url: /
             showIcon: true
             icon: github
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         elementId: ''
