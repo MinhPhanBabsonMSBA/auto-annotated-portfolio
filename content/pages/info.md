@@ -93,7 +93,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    title: ''
+    title: My Skills
   - type: DividerSection
     styles:
       self:
