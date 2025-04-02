@@ -242,7 +242,7 @@ sections:
             label: Learn more
             altText: ''
             url: /a
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
