@@ -10,6 +10,12 @@ media:
   url: /images/AdobeStock_17709706-1024x768.jpeg
   altText: Project image
 bottomSections: []
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 **Check out my complete project:** [**GitHub Repository** ](https://github.com/MinhPhanBabsonMSBA/Flight-Delay-Stat-Analysis-App) 
 
