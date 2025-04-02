@@ -87,7 +87,7 @@ sections:
         textAlign: center
   - type: MediaGallerySection
     title: Certifications
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
