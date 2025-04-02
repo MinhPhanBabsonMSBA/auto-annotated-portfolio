@@ -358,9 +358,6 @@ sections:
       - type: Label
         label: Microsoft Office
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
