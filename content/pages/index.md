@@ -334,7 +334,7 @@ sections:
     quote: >-
       “If you don't see me cleaning data, you can find me in the kitchen
       experimenting with new dishes”
-    name: Johnna Doe
+    name: Mike Phan
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
