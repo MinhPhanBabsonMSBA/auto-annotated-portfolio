@@ -336,7 +336,7 @@ sections:
     items:
       - type: Label
         label: Linkedin
-        url: ''
+        url: 'https://www.linkedin.com/in/minh-phan-0409'
       - type: Label
         label: React
         url: ''
