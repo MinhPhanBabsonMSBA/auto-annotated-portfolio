@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'LinkedIn Post: When Life Gives You Flight Delays, Build a Prediction App'
 colors: colors-a
-date: '2024-05-02'
+date: '2024-01-02'
 author: content/data/team/doris-soto.json
 excerpt: Turning Travel Frustration into Data Insight
 featuredImage:
