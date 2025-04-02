@@ -25,6 +25,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: Blue Bike Case Study
 topSections:
   - type: HeroSection
     title: Projects
