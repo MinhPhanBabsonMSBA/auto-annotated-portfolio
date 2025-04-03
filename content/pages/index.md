@@ -278,7 +278,7 @@ sections:
           and drive financial outcomes? In this post, I share my personal
           journey into the world of data-driven finance — from exploring
           predictive modeling and algorithmic trading to building real-time
-          stock analysis tools using Python, LSTM modeling, and TensorFlow.
+          stock analysis tools using Python, LSTM, and TensorFlow.
         featuredImage:
           type: ImageBlock
           url: /images/finance.jpeg
