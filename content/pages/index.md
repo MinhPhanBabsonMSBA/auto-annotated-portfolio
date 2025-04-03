@@ -273,16 +273,12 @@ sections:
           Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven
           Finance
         subtitle: ''
-        text: >+
+        text: >
           Curious how data analytics can unlock smarter investment strategies
           and drive financial outcomes? In this post, I share my personal
           journey into the world of data-driven finance — from exploring
           predictive modeling and algorithmic trading to building real-time
-          stock analysis tools using Python, R, and TensorFlow.
-
-
-
-
+          stock analysis tools using Python, LSTM, and TensorFlow.
         featuredImage:
           type: ImageBlock
           url: /images/finance.jpeg
@@ -291,12 +287,12 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Learn More
+            label: Read Article
             altText: ''
             url: >-
               https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
             showIcon: true
-            icon: arrowRight
+            icon: ''
             iconPosition: right
             style: primary
             elementId: ''
@@ -322,11 +318,11 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Learn More
+            label: Read Article
             altText: ''
             url: >-
               https://www.linkedin.com/posts/minh-phan-0409_it-is-the-new-years-holiday-one-of-the-activity-7280805963832410112-8Cs3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJqZtsBPRL7Pr6cF5BsmZDxQEWSeTpKJ-o
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: right
             style: primary
