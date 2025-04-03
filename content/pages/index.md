@@ -287,7 +287,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: Learn More
+            label: Read Article
             altText: ''
             url: >-
               https://medium.com/@phanm48/data-to-dollars-an-enthusiasts-journey-into-data-driven-finance-4cec9251d000
