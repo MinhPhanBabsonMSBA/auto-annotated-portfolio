@@ -273,16 +273,12 @@ sections:
           Medium Post: Data to Dollars: An Enthusiast’s Journey into Data-Driven
           Finance
         subtitle: ''
-        text: >+
+        text: >
           Curious how data analytics can unlock smarter investment strategies
           and drive financial outcomes? In this post, I share my personal
           journey into the world of data-driven finance — from exploring
           predictive modeling and algorithmic trading to building real-time
-          stock analysis tools using Python, R, and TensorFlow.
-
-
-
-
+          stock analysis tools using Python, LSTM modeling, and TensorFlow.
         featuredImage:
           type: ImageBlock
           url: /images/finance.jpeg
