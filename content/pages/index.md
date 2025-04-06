@@ -243,7 +243,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /a
+            url: ''
             showIcon: true
             icon: arrowRight
             iconPosition: right
