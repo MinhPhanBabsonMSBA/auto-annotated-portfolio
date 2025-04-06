@@ -243,7 +243,8 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: ''
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/Champion-SAS-Analytics/blob/main/README.md
             showIcon: true
             icon: arrowRight
             iconPosition: right
