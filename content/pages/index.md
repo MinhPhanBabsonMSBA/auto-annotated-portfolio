@@ -85,6 +85,44 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
+  - type: MediaGallerySection
+    title: Certifications
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Alteryx Fundamentals certificate.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/BMC.pdf.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          /images/CertificateOfCompletion_The Data Science Playbook for Private
+          Equity and Venture Capital (1).png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 3
+    aspectRatio: '3:2'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        textAlign: center
   - type: FeaturedItemsSection
     title: Featured Projects
     items:
@@ -225,44 +263,6 @@ sections:
         padding:
           - pt-28
           - pb-36
-          - pl-4
-          - pr-4
-        textAlign: center
-  - type: MediaGallerySection
-    title: Certifications
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Alteryx Fundamentals certificate.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/BMC.pdf.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/CertificateOfCompletion_The Data Science Playbook for Private
-          Equity and Venture Capital (1).png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 3
-    aspectRatio: '3:2'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
           - pl-4
           - pr-4
         textAlign: center
