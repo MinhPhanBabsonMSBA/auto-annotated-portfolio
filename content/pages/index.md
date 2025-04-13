@@ -309,7 +309,7 @@ sections:
           background.
         featuredImage:
           type: ImageBlock
-          url: /images/Dutch_GP_Desktop_Wallpaper_2.jpg
+          url: /images/MBA-Graduation-2015_MBA0177-scaled.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
