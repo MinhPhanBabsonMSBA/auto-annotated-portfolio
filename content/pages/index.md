@@ -295,7 +295,9 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Medium Post: '
+        title: >-
+          Medium Post: The Economics Behind Getting Into an MBA: What the Data
+          Tells Us
         subtitle: ''
         text: |
           Coming Soon ...
