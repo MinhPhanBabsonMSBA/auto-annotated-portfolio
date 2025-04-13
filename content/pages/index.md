@@ -295,7 +295,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: F1 + Data Science
+        title: ''
         subtitle: ''
         text: |
           Coming Soon ...
