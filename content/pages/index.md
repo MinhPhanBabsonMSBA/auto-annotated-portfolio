@@ -295,7 +295,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: ''
+        title: 'Medium Post: '
         subtitle: ''
         text: |
           Coming Soon ...
