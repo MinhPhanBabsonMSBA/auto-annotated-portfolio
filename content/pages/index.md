@@ -300,13 +300,13 @@ sections:
           Tells Us
         subtitle: ''
         text: >
-          In this research-based Medium article, I combined economic theory,
-          real-world admissions data, and statistical modeling in R to uncover
-          what factors most strongly predict acceptance into a top-tier MBA
-          program. Drawing on a dataset of 6,194 applicants to Wharton’s MBA
-          Class of 2025, I used logistic regression (GLM) to assess the
-          predictive power of GMAT scores, undergraduate GPA, years of work
-          experience, and pre-MBA industry background.
+          In this research-based article, I combined economic theory, real-world
+          admissions data, and statistical modeling in R to uncover what factors
+          most strongly predict acceptance into a top-tier MBA program. Drawing
+          on a dataset of Wharton’s MBA Class of 2025, I used logistic
+          regression (GLM) to assess the predictive power of GMAT scores,
+          undergraduate GPA, years of work experience, and pre-MBA industry
+          background.
         featuredImage:
           type: ImageBlock
           url: /images/Dutch_GP_Desktop_Wallpaper_2.jpg
