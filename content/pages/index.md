@@ -319,7 +319,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Read Article
             altText: ''
             url: >-
               https://medium.com/@phanm48/the-economics-behind-getting-into-an-mba-what-the-data-tells-us-37bf35a4efac
