@@ -85,44 +85,6 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
-  - type: MediaGallerySection
-    title: Certifications
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/Alteryx Fundamentals certificate.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/BMC.pdf.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          /images/CertificateOfCompletion_The Data Science Playbook for Private
-          Equity and Venture Capital (1).png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 3
-    aspectRatio: '3:2'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        textAlign: center
   - type: FeaturedItemsSection
     title: Featured Projects
     items:
@@ -333,13 +295,21 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: F1 + Data Science
+        title: >-
+          Medium Post: The Economics Behind Getting Into an MBA: What the Data
+          Tells Us
         subtitle: ''
-        text: |
-          Coming Soon ...
+        text: >
+          In this research-based article, I combined economic theory, real-world
+          admissions data, and statistical modeling in R to uncover what factors
+          most strongly predict acceptance into a top-tier MBA program. Drawing
+          on a dataset of Wharton’s MBA Class of 2025, I used logistic
+          regression (GLM) to assess the predictive power of GMAT scores,
+          undergraduate GPA, years of work experience, and pre-MBA industry
+          background.
         featuredImage:
           type: ImageBlock
-          url: /images/Dutch_GP_Desktop_Wallpaper_2.jpg
+          url: /images/MBA-Graduation-2015_MBA0177-scaled.jpg
           altText: Item image
           caption: Caption of the image
           elementId: ''
@@ -347,6 +317,17 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Read Article
+            altText: ''
+            url: >-
+              https://medium.com/@phanm48/the-economics-behind-getting-into-an-mba-what-the-data-tells-us-37bf35a4efac
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
     columns: 2
