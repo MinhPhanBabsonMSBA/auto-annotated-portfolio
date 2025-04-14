@@ -163,7 +163,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: BlueBike Case Study
+        title: BlueBike Case Study Tableau Dashboard
         subtitle: ''
         text: ''
         featuredImage:
