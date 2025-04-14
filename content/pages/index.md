@@ -138,7 +138,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'AdventureWorks Customer Segmentation '
+        title: AdventureWorks Customer Segmentation SQL Report
         subtitle: ''
         text: ''
         featuredImage:
