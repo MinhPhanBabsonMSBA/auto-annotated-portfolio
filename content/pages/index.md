@@ -230,7 +230,8 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/Wayfair-BCG_Strategy-Case-study/tree/main
             showIcon: true
             icon: arrowRight
             iconPosition: right
