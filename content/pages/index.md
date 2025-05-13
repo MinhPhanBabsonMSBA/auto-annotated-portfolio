@@ -229,7 +229,7 @@ sections:
             padding:
               - pr-0
               - pl-0
-              - pt-4
+              - pt-0
               - pb-0
         actions:
           - type: Button
