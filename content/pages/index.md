@@ -212,11 +212,41 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+      - type: FeaturedItem
+        title: Wayfair Return Optimization & Customer Segmentation Case Study
+        subtitle: ''
+        text: ''
+        featuredImage:
+          type: ImageBlock
+          url: /images/wayfair logo.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pr-0
+              - pl-0
+              - pt-0
+              - pb-0
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: >-
+              https://github.com/MinhPhanBabsonMSBA/Wayfair-BCG_Strategy-Case-study/tree/main
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     actions: []
     colors: colors-f
-    columns: 2
+    columns: 3
     spacingX: 50
-    spacingY: 40
+    spacingY: 48
     elementId: ''
     styles:
       self:
