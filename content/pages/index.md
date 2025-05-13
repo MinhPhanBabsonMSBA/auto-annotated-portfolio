@@ -218,7 +218,7 @@ sections:
         text: ''
         featuredImage:
           type: ImageBlock
-          url: /images/wayfair logo.png
+          url: /images/shoulbergw-wayfair.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
