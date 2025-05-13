@@ -230,7 +230,7 @@ sections:
               - pr-0
               - pl-0
               - pt-0
-              - pb-0
+              - pb-14
         actions:
           - type: Button
             label: Learn more
