@@ -228,6 +228,7 @@ sections:
             textAlign: left
             padding:
               - pr-0
+              - pl-9
         actions:
           - type: Button
             label: Learn more
