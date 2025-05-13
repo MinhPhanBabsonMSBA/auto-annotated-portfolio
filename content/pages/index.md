@@ -239,7 +239,7 @@ sections:
             elementId: ''
     actions: []
     colors: colors-f
-    columns: 2
+    columns: 3
     spacingX: 50
     spacingY: 40
     elementId: ''
