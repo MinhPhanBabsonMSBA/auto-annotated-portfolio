@@ -225,7 +225,7 @@ sections:
         elementId: ''
         styles:
           self:
-            textAlign: left
+            textAlign: center
         actions:
           - type: Button
             label: Learn more
