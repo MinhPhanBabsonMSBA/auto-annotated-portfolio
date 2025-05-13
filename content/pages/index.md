@@ -226,6 +226,8 @@ sections:
         styles:
           self:
             textAlign: left
+            padding:
+              - pr-16
         actions:
           - type: Button
             label: Learn more
