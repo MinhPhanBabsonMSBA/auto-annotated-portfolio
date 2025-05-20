@@ -235,8 +235,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: >-
-              https://github.com/MinhPhanBabsonMSBA/Wayfair-BCG_Strategy-Case-study/tree/main
+            url: 'https://github.com/MinhPhanBabsonMSBA/Wayfair_Dashboard'
             showIcon: true
             icon: arrowRight
             iconPosition: right
