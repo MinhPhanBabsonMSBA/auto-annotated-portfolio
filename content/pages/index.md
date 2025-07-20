@@ -56,7 +56,7 @@ sections:
         label: Resume
         altText: ''
         url: >-
-          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
+          https://drive.google.com/file/d/1Wye8CSzFMHUN0K0NQcSpVQYXRiJHBpmy/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -401,7 +401,7 @@ sections:
       - type: Label
         label: Resume
         url: >-
-          https://drive.google.com/file/d/1j94V1vXUnMGo2zoFSc2BWHwQz3zgtChm/view?usp=sharing
+          https://drive.google.com/file/d/1Wye8CSzFMHUN0K0NQcSpVQYXRiJHBpmy/view?usp=sharing
     colors: colors-f
     elementId: ''
     styles:
