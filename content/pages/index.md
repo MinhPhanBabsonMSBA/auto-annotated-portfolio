@@ -55,7 +55,8 @@ sections:
       - type: Button
         label: Resume
         altText: ''
-        url: ''
+        url: >-
+          https://drive.google.com/file/d/1Wye8CSzFMHUN0K0NQcSpVQYXRiJHBpmy/view?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
